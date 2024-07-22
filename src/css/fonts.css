@@ -1,0 +1,32 @@
+/* Ultra Light */
+@font-face {
+    font-family: HelveticaNeueUltraLight;
+    src: url(../../static/fonts/helvetica-neue-5/HelveticaNeueUltraLight.otf);
+}
+
+/* Light */
+@font-face {
+    font-family: HelveticaNeueLight;
+    src: url(../../static/fonts/helvetica-neue-5/HelveticaNeueLight.otf);
+}
+
+/* Medium */
+
+@font-face {
+    font-family: HelveticaNeue;
+    src: url(../../static/fonts/helvetica-neue-5/HelveticaNeueMedium.otf);
+}
+
+/* Bold */
+
+@font-face {
+    font-family: HelveticaNeueBold;
+    src: url(../../static/fonts/helvetica-neue-5/HelveticaNeueBold.otf);
+}
+
+/* Black */
+
+@font-face {
+    font-family: HelveticaNeueBlack;
+    src: url(../../static/fonts/helvetica-neue-5/HelveticaNeueBlack.otf);
+}
