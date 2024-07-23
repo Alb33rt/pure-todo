@@ -95,12 +95,20 @@
     background-color: #dd4345;
 }
 
+.taskbtn.addbtn:hover, .taskbtn.openform:hover {
+    background-color: #d86163;
+}
+
 .taskbtn.openform {
     margin-left: 0px;
 }
 
 .taskbtn.abtbtn {
     background-color: #131313;
+}
+
+.taskbtn.abtbtn:hover {
+    background-color: #393939;
 }
 
 .taskinput {

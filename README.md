@@ -3,6 +3,7 @@ Pure Todolist App that uses browser storage, programmed using the most basic Jav
 
 
 Application Sneakpeak:
+
 ![Sneakpeak Screenshot](./static/images/snippet.png "Pure-Todo's UI")
 
 ### Purpose
